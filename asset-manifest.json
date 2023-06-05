@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nitflex/static/css/main.e0f04c19.css",
+    "main.js": "/Nitflex/static/js/main.43e3db51.js",
+    "static/js/787.9e26b7e5.chunk.js": "/Nitflex/static/js/787.9e26b7e5.chunk.js",
+    "index.html": "/Nitflex/index.html",
+    "main.e0f04c19.css.map": "/Nitflex/static/css/main.e0f04c19.css.map",
+    "main.43e3db51.js.map": "/Nitflex/static/js/main.43e3db51.js.map",
+    "787.9e26b7e5.chunk.js.map": "/Nitflex/static/js/787.9e26b7e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f04c19.css",
+    "static/js/main.43e3db51.js"
+  ]
+}
