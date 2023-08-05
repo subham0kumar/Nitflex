@@ -1,7 +1,6 @@
-see the live project at:  https://subham0kumar.github.io/Nitflex/
+<h1>See the live project at:  https://subham0kumar.github.io/Nitflex/</h1>
 
-**https://subham0kumar.github.io/Nitflex/**
-**# Getting Started with Create React App**
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
